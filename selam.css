@@ -1,0 +1,23 @@
+#b{
+    color:red;
+    font-size:25px;
+}
+#a{
+    color:chocolate;
+    font-size:50px;
+}
+.örnekclass{
+    color:brown;
+    font-size:20px;
+}
+#rnd2{
+    color:chartreuse;
+    text-align: right;
+}
+#rnd3{
+    color:blueviolet;
+    text-align:center;
+}
+#rnd1{
+    color:aqua;
+}
